@@ -19,6 +19,7 @@ export const Container = styled.div`
         transform: translateX(-50%);
 
         color: #312e38;
+        white-space: nowrap;
 
         &::before {
             content: '';
